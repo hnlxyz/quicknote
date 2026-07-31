@@ -15,7 +15,7 @@ A modern note-taking application built with React and Vite. QuickNote allows use
 
 ## Screenshot
 
-![QuickNote](screenshots/home.png)
+![QuickNote](screenshots/home.PNG)
 
 ## Tech Stack
 
