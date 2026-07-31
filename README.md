@@ -67,6 +67,10 @@ src/
 └── index.css
 ```
 
+## Learning Reference
+
+This project was developed as part of my React learning journey using online resources and hands-on practice.
+
 ## Author
 
 **Htun Naing Lynn**
