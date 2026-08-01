@@ -69,7 +69,7 @@ src/
 
 ## Learning Reference
 
-This project was developed as part of my React learning journey through online resources and hands-on practice. The application was enhanced with additional functionality, including note editing and delete confirmation, to improve the overall user experience.
+This project was developed as part of my React learning journey using a Udemy course and hands-on practice. Additional functionality, including note editing and delete confirmation, was implemented to enhance the application's functionality and user experience.
 
 ## Author
 
