@@ -29,43 +29,36 @@ A modern note-taking application built with React and Vite. QuickNote allows use
 
 Clone the repository:
 
-```bash
 git clone https://github.com/hnlxyz/quicknote.git
-```
+
 
 Navigate to the project folder:
 
-```bash
 cd quicknote
-```
+
 
 Install dependencies:
 
-```bash
 npm install
-```
+
 
 Start the development server:
 
-```bash
 npm run dev
-```
+
 
 Open your browser:
 
-```
 http://localhost:5173
-```
+
 
 ## Project Structure
 
-```
 src/
 ├── components/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-```
 
 ## Learning Reference
 
